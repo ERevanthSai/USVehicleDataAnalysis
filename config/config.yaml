@@ -1,0 +1,8 @@
+paths:
+  input:
+    Charges: "./data/Charges_use.csv"
+    Damages: "./data/Damages_use.csv"
+    Endorse: "./data/Endorse_use.csv"
+    Primary_Person: "./data/Primary_Person_use.csv"
+    Restrict: "./data/Restrict_use.csv"
+    Units: "./data/Units_use.csv"
